@@ -2,6 +2,6 @@
 
 ## Content
 
-- [Cryptography and Security](/Cryptography/content)
+- [Cryptography and Security](./Cryptography/content)
 - Search Engines and Application
 
