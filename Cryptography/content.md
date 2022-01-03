@@ -2,11 +2,11 @@
 
 ## Overview / Summary
 
-- [Tech Summary](./Tech Summary)
+- Tech Summary
 
 ## Content
 
-- [One-key Block Ciphers](./One-key Block Ciphers)
+- One-key Block Ciphers
 
 #### Reference
 
