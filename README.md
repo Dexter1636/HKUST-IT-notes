@@ -1,6 +1,7 @@
 # HKUST-IT-notes
 
-## Reference
+## Content
 
-Lecture slides of HKUST CSIT5710, by Prof. Cunsheng DING
+- [Cryptography and Security](/Cryptography/content)
+- Search Engines and Application
 
